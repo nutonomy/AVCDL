@@ -8,7 +8,7 @@ and mappings from the generated products to their corresponding certification st
 
 ## Where to Start
 
-There's a lot of material here with more on the way. The recommended starting point is the [**AVCDL** primary document](./AVCDL.pdf). The primary document is about 160 pages, so it's recommended that you download the repository. Although you could just download the primary document itself, there are outbound links to the secondary documents that are path relative. If you can get by with just picking things out yourself, then download the primary document, the [secondary documents directory](./reference_documents/secondary_documents), and the [working material directory](./reference_documents/working_material).
+There's a lot of material here with more on the way. The recommended starting point is the [**AVCDL** primary document](./distribution/AVCDL.pdf). The primary document is about 160 pages, so it's recommended that you download the repository. Although you could just download the primary document itself, there are outbound links to the secondary documents that are path relative. If you can get by with just picking things out yourself, then download the primary document, the [secondary documents directory](./distribution/reference_documents/secondary_documents), and the [working material directory](./distribution/reference_documents/working_material).
 
 ## Background Material
 
@@ -28,7 +28,7 @@ Before beginning, you should read the blog series introducing the **AVCDL** and 
 
 The following diagram illustrates the relationship between the various sources for and elements of the **AVCDL**.
 
-![lifecycle creation flow](./reference_documents/misc/images/processed/lifecycle%20creation%20flow.png)
+![lifecycle creation flow](./source/reference_documents/misc/images/processed/lifecycle%20creation%20flow.png)
 
 ## Release Timetable
 
