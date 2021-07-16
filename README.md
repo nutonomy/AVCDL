@@ -16,7 +16,7 @@ The **AVCDL** is backed by a lot of preceding work. You can see a summary [here]
 
 ## Introductory Material
 
-We've written a series of blog posts to introduce the concepts motivating the **AVCDL**. You can find them [here](./background_material/blog%20posts.md).
+We've written a series of blog posts to introduce the concepts motivating the **AVCDL**. You can find them [here](./background_material/blog_posts/blog%20posts.md).
 
 ## Element Relationships
 
