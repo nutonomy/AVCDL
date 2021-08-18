@@ -10,3 +10,4 @@ The following is a blog series introducing the **AVCDL** and the concepts behind
 | Aligning the Organization with the AVPDL [[PDF]](./aligning%20the%20organization%20with%20the%20AVPDL.pdf) | how do you bring the multitude of development practices together? |
 | Traceability: Making the Case for Security [[PDF]](./traceability%20-%20making%20the%20case%20for%20certification.pdf) | how do you ensure follow through? |
 | The AVCDL: Autonomous Vehicle Cybersecurity Development Lifecycle [[PDF]](./AVCDL%20-%20the%20autonomous%20vehicle%20cybersecurity%20development%20lifecycle.pdf) | an overview of the AVCDL |
+| Turtles All the Way Down: Security at Every Level [[PDF]](./turtles%20all%20the%20way%20down%20-%20security%20at%20every%20level.pdf) | security is critical at every level of the supply chain |
