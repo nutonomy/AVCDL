@@ -11,3 +11,4 @@ The following is a blog series introducing the **AVCDL** and the concepts behind
 | Traceability: Making the Case for Security [[PDF]](./traceability%20-%20making%20the%20case%20for%20certification.pdf) | how do you ensure follow through? |
 | The AVCDL: Autonomous Vehicle Cybersecurity Development Lifecycle [[PDF]](./AVCDL%20-%20the%20autonomous%20vehicle%20cybersecurity%20development%20lifecycle.pdf) | an overview of the AVCDL |
 | Turtles All the Way Down: Security at Every Level [[PDF]](./turtles%20all%20the%20way%20down%20-%20security%20at%20every%20level.pdf) | security is critical at every level of the supply chain |
+| AVCMDS - Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement [[PDF]](./AVCMDS%20-%20autonomous%20vehicle%20cybersecurity%20manufacturer%20disclosure%20statement.pdf) | an overview of the AVCMDS |
