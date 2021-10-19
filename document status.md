@@ -28,7 +28,7 @@ The following table shows the status of the various AVCDL elements.
 | release integrity plan                              | draft    |
 | cybersecurity monitoring plan                       | draft    |
 | incident response plan                              | draft    |
-| decommissioning plan                                | template |
+| decommissioning plan                                | draft    |
 | threat prioritization plan                          | draft    |
 | deployment plan                                     | template |
 |                                                     |          |
@@ -77,7 +77,7 @@ The following table shows the status of the various AVCDL elements.
 | **Decommissioning Phase**                           |          |
 | decommissioning report                              | template |
 
-#### Legend
+### Legend
 
 | Status   | Description                       |
 |----------|-----------------------------------|
