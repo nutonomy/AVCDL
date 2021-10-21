@@ -23,7 +23,7 @@ The following is a list of material upon which the **AVCDL** is based.
 10. **NICE Cybersecurity Workforce Framework (NCWF)**<br/>
 <https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181r1.pdf>
 11. **Secure Software Development Framework (SSDF)**<br/>
-<https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf>
+<https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218-draft.pdf>
 12. **Static Analysis Results Interchange Format (SARIF)**<br/>
 <https://docs.oasis-open.org/sarif/sarif/v2.0/csprd02/sarif-v2.0-csprd02.pdf>
 13. **Systems Engineering Capability Maturity Model (CMM)**<br/>
