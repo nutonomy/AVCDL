@@ -13,62 +13,62 @@ The following table shows the status of the various AVCDL elements.
 | **General**                                         |          |
 | security requirements taxonomy                      | complete |
 | understanding the phase products dependencies graph | complete |
-| secure design principles                            | draft    |
+| secure design principles                            | complete |
 | understanding workflow graphs                       | complete |
 | understanding cybersecurity interface agreements    | complete |
 |                                                     |          |
 | **Foundation Phase**                                |          |
-| training catalog                                    | draft    |
-| system to track training participation              | draft    |
+| training catalog                                    | complete |
+| system to track training participation              | complete |
 | roles and responsibilities                          | complete |
-| list of approved tools and components               | draft    |
+| list of approved tools and components               | complete |
 | global security goals                               | complete |
 | global security requirements                        | complete |
-| code protection plan                                | draft    |
-| release integrity plan                              | draft    |
-| cybersecurity monitoring plan                       | draft    |
-| incident response plan                              | draft    |
-| decommissioning plan                                | draft    |
-| threat prioritization plan                          | draft    |
+| code protection plan                                | complete |
+| release integrity plan                              | complete |
+| cybersecurity monitoring plan                       | complete |
+| incident response plan                              | complete |
+| decommissioning plan                                | complete |
+| threat prioritization plan                          | complete |
 | deployment plan                                     | template |
 |                                                     |          |
 | **Requirements Phase**                              |          |
-| product-level security goals                        | draft    |
-| product-level security requirements                 | draft    |
-| requirements phase gate                             | draft    |
+| product-level security goals                        | complete |
+| product-level security requirements                 | complete |
+| requirements phase gate                             | complete |
 |                                                     |          |
 | **Design Phase**                                    |          |
-| design showing security considerations              | draft    |
+| design showing security considerations              | complete |
 | security design review report                       | template |
-| attack surface analysis report                      | draft    |
-| threat modeling report                              | draft    |
-| ranked/risked threat report                         | draft    |
-| threat report                                       | draft    |
-| design phase gate                                   | draft    |
+| attack surface analysis report                      | complete |
+| threat modeling report                              | complete |
+| ranked/risked threat report                         | complete |
+| threat report                                       | complete |
+| design phase gate                                   | complete |
 |                                                     |          |
 | **Implementation Phase**                            |          |
-| list of tools and components used                   | draft    |
-| build process documentation                         | draft    |
-| secure setting document                             | draft    |
-| component/version - product/version cross-reference | draft    |
-| secure development                                  | draft    |
-| currently used deprecated functions                 | draft    |
-| static analysis report                              | draft    |
-| dynamic analysis report                             | draft    |
-| secure code review summary                          | draft    |
-| fuzz testing report                                 | draft    |
-| implementation phase gate                           | draft    |
+| list of tools and components used                   | complete |
+| build process documentation                         | complete |
+| secure setting document                             | complete |
+| component/version - product/version cross-reference | complete |
+| secure development                                  | complete |
+| currently used deprecated functions                 | complete |
+| static analysis report                              | complete |
+| dynamic analysis report                             | complete |
+| secure code review summary                          | complete |
+| fuzz testing report                                 | complete |
+| implementation phase gate                           | complete |
 |                                                     |          |
 | **Verification Phase**                              |          |
 | penetration testing report                          | template |
-| updated threat model                                | draft    |
-| updated attack surface analysis                     | draft    |
-| verification phase gate                             | draft    |
+| updated threat model                                | complete |
+| updated attack surface analysis                     | complete |
+| verification phase gate                             | complete |
 |                                                     |          |
 | **Release Phase**                                   |          |
-| final security review report                        | draft    |
+| final security review report                        | complete |
 | archive manifest                                    | template |
-| release phase gate                                  | draft    |
+| release phase gate                                  | complete |
 |                                                     |          |
 | **Operation Phase**                                 |          |
 | cybersecurity incident report                       | template |
