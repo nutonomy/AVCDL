@@ -15,6 +15,12 @@ The following table shows the status of the various AVCDL elements.
 | understanding the phase products dependencies graph | complete |
 | secure design principles                            | complete |
 | understanding workflow graphs                       | complete |
+| AVCDL phase requirement product ISO 21434 work product fulfillment summary | complete |
+|                                                     |          |
+| **Supplier Processes**                                         |          |
+| AVCMDS                                              | complete |
+| supplier self-reported cybersecurity maturity assessment | complete |
+| cybersecurity interface agreement                   | complete |
 | understanding cybersecurity interface agreements    | complete |
 |                                                     |          |
 | **Foundation Phase**                                |          |
