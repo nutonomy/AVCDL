@@ -45,7 +45,7 @@ The following table shows the status of the various AVCDL elements.
 |                                                     |          |
 | **Design Phase**                                    |          |
 | design showing security considerations              | complete |
-| security design review report                       | template |
+| security design review report                       | complete |
 | attack surface analysis report                      | complete |
 | threat modeling report                              | complete |
 | ranked/risked threat report                         | complete |
