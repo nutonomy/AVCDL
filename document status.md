@@ -73,15 +73,15 @@ The following table shows the status of the various AVCDL elements.
 |                                                     |          |
 | **Release Phase**                                   |          |
 | final security review report                        | complete |
-| archive manifest                                    | template |
+| archive manifest                                    | complete |
 | release phase gate                                  | complete |
 |                                                     |          |
 | **Operation Phase**                                 |          |
-| cybersecurity incident report                       | template |
-| software deployment report                          | template |
+| cybersecurity incident report                       |  draft   |
+| software deployment report                          |  draft   |
 |                                                     |          |
 | **Decommissioning Phase**                           |          |
-| decommissioning report                              | template |
+| decommissioning report                              | complete |
 
 ### Legend
 
