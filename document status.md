@@ -77,7 +77,7 @@ The following table shows the status of the various AVCDL elements.
 | release phase gate                                  | complete |
 |                                                     |          |
 | **Operation Phase**                                 |          |
-| cybersecurity incident report                       |  draft   |
+| cybersecurity incident report                       | complete |
 | software deployment report                          |  draft   |
 |                                                     |          |
 | **Decommissioning Phase**                           |          |
