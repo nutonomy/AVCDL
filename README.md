@@ -12,6 +12,10 @@ There's a lot of material here with more on the way. The recommended starting po
 
 If you're just interested in the final product, use the [**distribution** sub-tree](./distribution). If you're interested in working on / with the source material, use the [**source** sub-tree](./source).
 
+## Note for Windows Users
+
+If you attempt to clone this repository on a Windows machine, you may run up against the 260 character fully-qualified path name limit. You can enable long FQPNs by following the instructions provided [here](https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=cmd).
+
 ## Background Material
 
 The **AVCDL** is backed by a lot of preceding work. You can see a summary [here](./background_material/background%20material.md).
