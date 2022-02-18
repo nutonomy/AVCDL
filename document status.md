@@ -17,6 +17,8 @@ The following table shows the status of the various AVCDL elements.
 | understanding workflow graphs                       | complete |
 | AVCDL phase requirement product ISO 21434 work product fulfillment summary | complete |
 | AVCDL phase requirement product ISO 26262 work product fulfillment summary | complete |
+| AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment | draft |
+| code signing                                        | complete |
 |                                                     |          |
 | **Supplier Processes**                                         |          |
 | AVCMDS                                              | complete |
