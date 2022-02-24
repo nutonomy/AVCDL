@@ -39,7 +39,7 @@ The following table shows the status of the various AVCDL elements.
 | incident response plan                              | complete |
 | decommissioning plan                                | complete |
 | threat prioritization plan                          | complete |
-| deployment plan                                     | template |
+| deployment plan                                     | complete |
 |                                                     |          |
 | **Requirements Phase**                              |          |
 | product-level security goals                        | complete |
@@ -69,7 +69,7 @@ The following table shows the status of the various AVCDL elements.
 | implementation phase gate                           | complete |
 |                                                     |          |
 | **Verification Phase**                              |          |
-| penetration testing report                          | template |
+| penetration testing report                          |  draft   |
 | updated threat model                                | complete |
 | updated attack surface analysis                     | complete |
 | verification phase gate                             | complete |
