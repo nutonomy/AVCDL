@@ -1,6 +1,8 @@
-# AVCDL Background Material
+# AVCDL Reference Material
 
 The following is a list of material upon which the **AVCDL** is based.
+
+**Note:** Each **AVCDL** document contains a list of references applicable to that document.
 
 1. **Cybersecurity Maturity Model Certification (CMMC)**<br/>
 <https://www.acq.osd.mil/cmmc/docs/CMMC_ModelMain_V1.02_20200318.pdf>
