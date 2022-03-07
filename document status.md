@@ -4,21 +4,23 @@
 
 The **AVCDL** documents are mostly complete. The majority of the secondary documents have been written and reviewed internally. Internally reviewed documents will be released soon after they have received certification body review.
 
-## Secondary Document Status
+## Document Status
 
 The following table shows the status of the various AVCDL elements.
 
-| Secondary (process) Document                        | Status   |
+| Document                                            | Status   |
 |-----------------------------------------------------|----------|
 | **General**                                         |          |
 | security requirements taxonomy                      | complete |
 | understanding the phase products dependencies graph | complete |
 | secure design principles                            | complete |
 | understanding workflow graphs                       | complete |
+| code signing                                        | complete |
+|                                                     |          |
+| **Certification**                                   |          |
 | AVCDL phase requirement product ISO 21434 work product fulfillment summary | complete |
 | AVCDL phase requirement product ISO 26262 work product fulfillment summary | complete |
 | AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment | draft |
-| code signing                                        | complete |
 |                                                     |          |
 | **Supplier Processes**                                         |          |
 | AVCMDS                                              | complete |
