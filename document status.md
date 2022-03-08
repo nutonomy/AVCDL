@@ -12,13 +12,13 @@ The following table shows the status of the various AVCDL elements.
 |-----------------------------------------------------|----------|
 | **General**                                         |          |
 | security requirements taxonomy                      | complete |
-| understanding the phase products dependencies graph | complete |
 | secure design principles                            | complete |
-| understanding workflow graphs                       | complete |
 |                                                     |          |
 | **Elaboration**                                     |          |
 | Incremental AVCDL Adoption                          | complete |
 | code signing                                        | complete |
+| understanding the phase products dependencies graph | complete |
+| understanding workflow graphs                       | complete |
 |                                                     |          |
 | **Certification**                                   |          |
 | AVCDL phase requirement product ISO 21434 work product fulfillment summary | complete |
