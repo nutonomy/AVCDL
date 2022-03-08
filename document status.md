@@ -15,6 +15,9 @@ The following table shows the status of the various AVCDL elements.
 | understanding the phase products dependencies graph | complete |
 | secure design principles                            | complete |
 | understanding workflow graphs                       | complete |
+|                                                     |          |
+| **Elaboration**                                     |          |
+| Incremental AVCDL Adoption                          | complete |
 | code signing                                        | complete |
 |                                                     |          |
 | **Certification**                                   |          |
