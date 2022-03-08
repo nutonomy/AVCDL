@@ -8,7 +8,7 @@ and mappings from the generated products to their corresponding certification st
 
 ## Where to Start
 
-There's a lot of material here with more on the way. The recommended starting point is the [**AVCDL** primary document](./distribution/AVCDL.pdf). The primary document is about 160 pages, so it's recommended that you download or clone the repository. Although you could just download the primary document itself, there are outbound links to the secondary documents that are path relative. If you can get by with just picking things out yourself, then download the primary document, the [secondary documents directory](./distribution/reference_documents/secondary_documents), and the [working material directory](./distribution/reference_documents/working_material).
+There's a lot of material here with more on the way. The recommended starting point is the [**AVCDL** primary document](./distribution/AVCDL.pdf). The primary document is about 160 pages, so it's recommended that you download or clone the repository. Although you could just download the primary document itself, there are outbound links to the over 50 secondary documents that are path relative. If you can get by with just picking things out yourself, then download the primary document, the [secondary documents directory](./distribution/reference_documents/secondary_documents), and the [working material directory](./distribution/reference_documents/working_material).
 
 If you're just interested in the final product, use the [**distribution** sub-tree](./distribution). If you're interested in working on / with the source material, use the [**source** sub-tree](./source).
 
