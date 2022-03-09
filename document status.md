@@ -17,6 +17,7 @@ The following table shows the status of the various AVCDL elements.
 | **Elaboration**                                     |          |
 | Incremental AVCDL Adoption                          | complete |
 | code signing                                        | complete |
+| understanding cybersecurity interface agreements    | complete |
 | understanding the phase products dependencies graph | complete |
 | understanding workflow graphs                       | complete |
 |                                                     |          |
@@ -29,7 +30,6 @@ The following table shows the status of the various AVCDL elements.
 | AVCMDS                                              | complete |
 | supplier self-reported cybersecurity maturity assessment | complete |
 | cybersecurity interface agreement                   | complete |
-| understanding cybersecurity interface agreements    | complete |
 |                                                     |          |
 | **Foundation Phase**                                |          |
 | training catalog                                    | complete |
