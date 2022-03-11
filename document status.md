@@ -75,7 +75,7 @@ The following table shows the status of the various AVCDL elements.
 | Implementation Phase Gate                                | complete |
 |                                                          |          |
 | **Verification Phase**                                   |          |
-| Penetration Testing Report                               |  draft   |
+| Penetration Testing Report (note 1)                      | complete |
 | Updated Threat Model                                     | complete |
 | Updated Attack Surface Analysis                          | complete |
 | Verification Phase Gate                                  | complete |
@@ -99,3 +99,7 @@ The following table shows the status of the various AVCDL elements.
 | template | not completed                     |
 | draft    | pending certification body review |
 | complete | reviewed by certification body    |
+
+## Notes
+
+1. The Penetration Testing Report processes are complete. The report format is still to be added to the document.
