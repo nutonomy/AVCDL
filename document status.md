@@ -20,6 +20,7 @@ The following table shows the status of the various AVCDL elements.
 | Manifest Generation                                      | complete |
 | Software Bill of Materials Lifecycle                     | complete |
 | Understanding Cybersecurity Interface Agreements         | complete |
+| Understanding TARA in an AVCDL Context                   | complete |
 | Understanding the Phase Products Dependencies Graph      | complete |
 | Understanding Workflow Graphs                            | complete |
 |                                                          |          |
