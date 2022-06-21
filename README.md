@@ -20,9 +20,9 @@ If you'd like to download the repository, but aren't a Git user, you can downloa
 
 If you attempt to clone this repository on a Windows machine, you may run up against the 260 character fully-qualified path name limit. You can enable long FQPNs by following the instructions provided [here](https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=cmd).
 
-## Background Material
+## Reference Material
 
-The **AVCDL** is backed by a lot of preceding work. You can see a summary [here](./background_material/reference%20material.md).
+The **AVCDL** is backed by a lot of preceding work. You can see a summary [here](./background_material/reference_material.md).
 
 ## Introductory Material
 
