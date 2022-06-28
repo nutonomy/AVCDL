@@ -36,6 +36,10 @@ We've written a set of documents that elaborate on the **AVCDL**, its implementa
 
 There is documentation relating to the use of the **AVCDL** in the context of ISO 21434, ISO 26262, and UNECE WP.29 certification. You can find them [here](./distribution/reference_documents/certification_documents).
 
+## Mentions
+
+We're tracking when the **AVCDL** gets attention. You can find a list of mentions [here](./mentions.md).
+
 ## Element Relationships
 
 The following diagram illustrates the relationship between the various sources for and elements of the **AVCDL**.
