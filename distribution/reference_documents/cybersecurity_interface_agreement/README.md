@@ -1,19 +1,29 @@
 # AVCDL Supplier-related Material
 
-The **AVCDL** supplier-related materials are documented here.
-
-| Title | Description |
-|--|--|
-| AVCMDS Worksheet template [[XSLX]](../templates/AVCMDS%20Worksheet%20template.xlsx) | Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement |
-| AVCDL vendor CMM template [[XLSX]](../templates/AVCDL%20vendor%20CMM%20template.xlsx) | Supplier Cybersecurity Maturity Self-Reporting |
-| AVCDL Cybersecurity Interface Agreement template [[DOCX]](../templates/AVCDL%20Cybersecurity%20Interface%20Agreement%20template.docx) | Cybersecurity Interface Agreement |
-| AVCDL cybersecurity interface agreement summary template [[XLSX]](../templates/AVCDL%20cybersecurity%20interface%20agreement%20summary%20template.xlsx) | roll-up of CMM and CIA information |
-| Understanding Cybersecurity Interface Agreements [[PDF]](../secondary_documents/Understanding%20Cybersecurity%20Interface%20Agreements.pdf) | how to complete the CIA document |
-
 ## Note
 
-We will be releasing a blog series covering the motivation and use of these.
+*This page is maintained for historic reasons.*
 
-## Short Version
+Supplier-related materials have been integrated into section 9.9 (**Supplier Processes**) of the **AVCDL** primary document.
 
-The AVCMDS is intended to get a snapshot of the capabilities of the supplier. This is followed by a CMM self-reported from the supplier which is used to determine what their process maturity (aligned with the **AVCDL**) is. The CIA is the legal document used to identify who is responsible for each of the various cybersecurity activities defined in the **AVCDL**. Finally, the CIA summary template is provided to allow for a management-friendly roll-up of the CMM and CIA information.
+## Documents
+
+**Understanding Cybersecurity Interface Agreements** [[PDF]](../elaboration_documents/Understanding%20Cybersecurity%20Interface%20Agreements.pdf) <br/> how to complete the CIA document
+
+**Understanding Supplier Cybersecurity Process Mapping** [[PDF]](../elaboration_documents/Understanding%20Supplier%20Cybersecurity%20Process%20Mapping.pdf) <br/> how to map vendor cybersecurity processes on to the **AVCDL**
+
+## Templates
+
+**AVCMDS Worksheet template** [[XLSX]](../templates/AVCMDS%20Worksheet%20template.xlsx) <br/> Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement
+
+**AVCDL vendor CMM template** [[XLSX]](../templates/AVCDL%20vendor%20CMM%20template.xlsx) <br/> Supplier Cybersecurity Maturity Self-Reporting
+
+**AVCDL Cybersecurity Interface Agreement template** [[DOCX]](../templates/AVCDL%20Cybersecurity%20Interface%20Agreement%20template.docx) <br/> Cybersecurity Interface Agreement
+
+**AVCDL cybersecurity interface agreement summary template** [[XLSX]](../templates/AVCDL%20cybersecurity%20interface%20agreement%20summary%20template.xlsx) <br/> roll-up of CMM and CIA information
+
+**vendor process - AVCDL product mapping template** [[XLSX]](../templates/vendor%20process%20-%20AVCDL%20product%20mapping%20template.xlsx) <br/> roll-up of CMM and CIA information
+
+## Blogs
+
+A [blog series](../../../background_material/blog_posts/README.md) covering the motivation of the **AVCDL** includes supplier-related posts.
