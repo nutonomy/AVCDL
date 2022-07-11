@@ -24,6 +24,7 @@ The following table shows the status of the various AVCDL elements.
 | Understanding the Phase Products Dependencies Graph      | complete |
 | Understanding Workflow Graphs                            | complete |
 | Understanding Supplier Cybersecurity Process Mapping     | complete |
+| AVCDL Documentation Management                           | complete |
 |                                                          |          |
 | **Certification**                                        |          |
 | AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment Summary | complete |
