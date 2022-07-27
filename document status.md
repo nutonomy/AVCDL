@@ -13,6 +13,7 @@ The following table shows the status of the various AVCDL elements.
 | **General**                                              |          |
 | Security Requirements Taxonomy                           | complete |
 | Secure Design Principles                                 | complete |
+| Element Cybersecurity Relevancy                          | complete |
 |                                                          |          |
 | **Elaboration**                                          |          |
 | Incremental AVCDL Adoption                               | complete |
