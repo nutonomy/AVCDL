@@ -8,7 +8,7 @@ and mappings from the generated products to their corresponding certification st
 
 ## Where to Start
 
-There's a lot of material here with more on the way. The recommended starting point is the [**AVCDL** primary document](./distribution/AVCDL.pdf). Between the primary and roughly 70 supporting documents, the **AVCDL** is about 800 pages, so it's recommended that you download or clone the repository. Although you could just download the primary document itself, there are outbound links to the secondary documents that are path relative. If you can get by with just picking things out yourself, then download the primary document, the [secondary documents directory](./distribution/reference_documents/secondary_documents), and the [working material directory](./distribution/reference_documents/working_material).
+There's a lot of material here with more on the way. The recommended starting point is the [**AVCDL** primary document](./distribution/AVCDL.pdf). Between the primary and roughly 70 supporting documents, the **AVCDL** is over 800 pages, so it's recommended that you download or clone the repository. Although you could just download the primary document itself, there are outbound links to the secondary documents that are path relative. If you can get by with just picking things out yourself, then download the primary document, the [secondary documents directory](./distribution/reference_documents/secondary_documents), and the [working material directory](./distribution/reference_documents/working_material).
 
 If you're just interested in the final product, use the [**distribution** sub-tree](./distribution). If you're interested in working on / with the source material, use the [**source** sub-tree](./source).
 
@@ -36,11 +36,11 @@ We've written a set of documents that elaborate on the **AVCDL**, its implementa
 
 ## Certification Material
 
-There is documentation relating to the use of the **AVCDL** in the context of ISO 21434, ISO 26262, and UNECE WP.29 certification. You can find them [here](./distribution/reference_documents/certification_documents).
+There is documentation relating to the use of the **AVCDL** in the context of ISO/SAE 21434, ISO 26262, and UNECE WP.29 certification. You can find them [here](./distribution/reference_documents/certification_documents).
 
 ## AVCDL Assessments
 
-The **AVCDL** is being assessed the context of ISO 21434, ISO 26262, and UNECE WP.29 certification. You can find results of these assessments [here](./assessments).
+The **AVCDL** has been assessed as [conformant](./assessments/ISO%20SAE%2021434%202021/TUVSUD_CybersecurityAssessmentSummary_Motional_AVCDL_v.2.12_signed.pdf) to ISO/SAE 21434. It is currently being assessed the context of ISO 26262, and UNECE WP.29 R155-7. You can find results of these assessments [here](./assessments).
 
 ## Mentions
 
