@@ -26,6 +26,7 @@ The following table shows the status of the various AVCDL elements.
 | Understanding Workflow Graphs                            | complete |
 | Understanding Supplier Cybersecurity Process Mapping     | complete |
 | Understanding Cybersecurity Risk Freshness in an AVCDL Context | complete |
+| Understanding Open Source in an AVCDL Context            | complete |
 | AVCDL Documentation Management                           | complete |
 |                                                          |          |
 | **Certification**                                        |          |
