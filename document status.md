@@ -28,6 +28,7 @@ The following table shows the status of the various AVCDL elements.
 | Understanding Cybersecurity Risk Freshness in an AVCDL Context | complete |
 | Understanding Open Source in an AVCDL Context            | complete |
 | AVCDL Documentation Management                           | complete |
+| Understanding Verification and Validation in an AVCDL Context | complete |
 |                                                          |          |
 | **Certification**                                        |          |
 | AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment Summary | complete |
