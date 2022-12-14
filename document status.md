@@ -16,19 +16,23 @@ The following table shows the status of the various AVCDL elements.
 | Element Cybersecurity Relevancy                          | complete |
 |                                                          |          |
 | **Elaboration**                                          |          |
-| Incremental AVCDL Adoption                               | complete |
 | Code Signing                                             | complete |
-| Manifest Generation                                      | complete |
+| Incremental AVCDL Adoption                               | complete |
 | Software Bill of Materials Lifecycle                     | complete |
 | Understanding Cybersecurity Interface Agreements         | complete |
-| Understanding TARA in an AVCDL Context                   | complete |
 | Understanding the Phase Products Dependencies Graph      | complete |
 | Understanding Workflow Graphs                            | complete |
-| Understanding Supplier Cybersecurity Process Mapping     | complete |
-| Understanding Cybersecurity Risk Freshness in an AVCDL Context | complete |
+| Manifest Generation                                      | complete |
+| Understanding TARA in an AVCDL Context                   | complete |
 | Understanding Open Source in an AVCDL Context            | complete |
 | AVCDL Documentation Management                           | complete |
+| Understanding Supplier Cybersecurity Process Mapping     | complete |
+| Understanding Cybersecurity Risk Freshness in an AVCDL Context | complete |
 | Understanding Verification and Validation in an AVCDL Context | complete |
+| Understanding Supply Chain Interaction in an AVCDL Context | complete |
+| Understanding the Extended CIA Model                    | complete |
+| Understanding the AVPDL                                 | complete |
+| Creating a Development Lifecycle                        | complete |
 |                                                          |          |
 | **Certification**                                        |          |
 | AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment Summary | complete |
@@ -83,7 +87,7 @@ The following table shows the status of the various AVCDL elements.
 | Implementation Phase Gate                                | complete |
 |                                                          |          |
 | **Verification Phase**                                   |          |
-| Penetration Testing Report (note 1)                      | complete |
+| Penetration Testing Report                               | complete |
 | Updated Threat Model                                     | complete |
 | Updated Attack Surface Analysis                          | complete |
 | Verification Phase Gate                                  | complete |
@@ -107,7 +111,3 @@ The following table shows the status of the various AVCDL elements.
 | template | not completed                     |
 | draft    | pending certification body review |
 | complete | reviewed by certification body    |
-
-## Notes
-
-1. The Penetration Testing Report processes are complete. The report format is still to be added to the document.
