@@ -33,6 +33,7 @@ The following table shows the status of the various AVCDL elements.
 | Understanding the Extended CIA Model                    | complete |
 | Understanding the AVPDL                                 | complete |
 | Creating a Development Lifecycle                        | complete |
+| Understanding Service Level Agreements in an AVCDL Context | draft |
 |                                                          |          |
 | **Certification**                                        |          |
 | AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment Summary | complete |
