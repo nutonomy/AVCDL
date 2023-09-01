@@ -1,9 +1,9 @@
-<mxfile host="Electron" modified="2023-08-30T14:09:34.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="4M-0W_sFshcPIkJnzEyq" version="21.6.8" type="device" pages="2">
+<mxfile host="Electron" modified="2023-09-01T13:17:23.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="0tf0tKJWrvE7lEn-oXlO" version="21.6.8" type="device" pages="2">
   <diagram id="htTk4eG_E8sKRTyZ_3JZ" name="buckets">
     <mxGraphModel dx="2738" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" style="locked=1;" parent="0" />
+        <mxCell id="1" style="" parent="0" />
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-3" value="Roles and Responsibilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="840" width="120" height="40" as="geometry" />
         </mxCell>
@@ -68,7 +68,7 @@
           <mxGeometry x="490" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-24" value="Use Approved Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="750" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="620" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-25" value="Configure Secure Build" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="-30" y="350" width="120" height="40" as="geometry" />
@@ -101,10 +101,10 @@
           <mxGeometry x="880" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-35" value="Threat Model&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="750" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-36" value="Final&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="620" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="1010" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-37" value="Archive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="750" y="620" width="120" height="40" as="geometry" />
@@ -238,9 +238,6 @@
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-84" value="Release&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="490" y="1420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-85" value="Use Approved Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-86" value="Configure Secure Build" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="-30" y="960" width="120" height="40" as="geometry" />
         </mxCell>
@@ -267,15 +264,6 @@
         </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-94" value="Penetration Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="490" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-95" value="Attack Surface Analysis Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-96" value="Threat Model&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-97" value="Final&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-98" value="Archive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="750" y="1280" width="120" height="40" as="geometry" />
@@ -322,7 +310,19 @@
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-117" value="Toolchain Support" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;gradientColor=#99CCFF;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="230" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="omMHDoHDRywpzFsrSh7K-1" value="safety highlight" style="locked=1;" parent="0" />
+        <mxCell id="sZaCMGmIhE8X4MkbpEd5-1" value="Use Approved Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZaCMGmIhE8X4MkbpEd5-2" value="Attack Surface Analysis Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZaCMGmIhE8X4MkbpEd5-3" value="Threat Model&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="750" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sZaCMGmIhE8X4MkbpEd5-4" value="Final&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="omMHDoHDRywpzFsrSh7K-1" value="safety highlight" style="" parent="0" visible="0" />
         <mxCell id="omMHDoHDRywpzFsrSh7K-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;gradientColor=#99CCFF;gradientDirection=radial;strokeColor=#FF0000;strokeWidth=3;" parent="omMHDoHDRywpzFsrSh7K-1" vertex="1">
           <mxGeometry x="-35" y="613.96" width="650" height="52.08" as="geometry" />
         </mxCell>
