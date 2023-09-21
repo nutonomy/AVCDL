@@ -5,6 +5,9 @@
 **AVCDL overview** [[video]](https://youtu.be/AQiNcstp5bM) [[supporting material]](./AVCDL%20overview/)
 <br/> This training provides a general overview as to the construction and use of the Autonomous Vehicle Cybersecurity Development Lifecycle (AVCDL).
 
+**incremental AVCDL adoption** [[video]](https://youtu.be/gA5rflBB8EM) [[supporting material]](./incremental%20AVCDL%20adoption/)
+<br/> This training covers a recommended path to incremental adoption of the AVCDL.
+
 ## Supply Chain
 
 **AVCDL supply chain overview** [[video]](https://www.youtube.com/watch?v=-6JbJS28210)
