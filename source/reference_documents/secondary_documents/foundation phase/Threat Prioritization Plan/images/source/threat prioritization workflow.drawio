@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-19T14:10:11.676Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="gxMZdZqZhVbNr7FWdfNm" version="21.7.5" type="device" pages="2">
+<mxfile host="Electron" modified="2023-09-26T13:09:43.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="D37u28KSzwPs2xPQk2y3" version="21.7.5" type="device" pages="2">
   <diagram id="E2ULkJl6go0xUk4_vNiQ" name="simple">
-    <mxGraphModel dx="2396" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2396" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,15 +193,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="multiple" id="RW0kmxfqnK4vQRi7jRbC">
-    <mxGraphModel dx="2796" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="jYmP900olh6cOkCl-Lvs-0" />
         <mxCell id="jYmP900olh6cOkCl-Lvs-1" parent="jYmP900olh6cOkCl-Lvs-0" />
         <mxCell id="PyXnrwbfxOhyF24sHTxU-51" value="uncontrolled threats" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="950" y="1340" width="80" height="100" as="geometry" />
+          <mxGeometry x="980" y="1430" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFE6CC;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="1080" y="430" width="290" height="440" as="geometry" />
+          <mxGeometry x="1060" y="430" width="290" height="440" as="geometry" />
         </mxCell>
         <mxCell id="jYmP900olh6cOkCl-Lvs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D5E8D4;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="440" y="160" width="290" height="440" as="geometry" />
@@ -285,20 +285,12 @@
         </mxCell>
         <mxCell id="jYmP900olh6cOkCl-Lvs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-32" target="jYmP900olh6cOkCl-Lvs-28" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="370" as="sourcePoint" />
-            <mxPoint x="840" y="370" as="targetPoint" />
+            <mxPoint x="790" y="370" as="sourcePoint" />
+            <mxPoint x="820" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jYmP900olh6cOkCl-Lvs-24" value="uncontrolled threats" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="920" y="320" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#330066;" parent="jYmP900olh6cOkCl-Lvs-1" source="jYmP900olh6cOkCl-Lvs-25" target="PyXnrwbfxOhyF24sHTxU-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1060" y="520" />
-              <mxPoint x="1060" y="656" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="jYmP900olh6cOkCl-Lvs-25" value="threat report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="760" y="480" width="120" height="80" as="geometry" />
@@ -310,7 +302,7 @@
           <mxGeometry x="165" y="450" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jYmP900olh6cOkCl-Lvs-28" value="to issue tracking system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="1400" y="615" width="60" height="50" as="geometry" />
+          <mxGeometry x="1380" y="615" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jYmP900olh6cOkCl-Lvs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="jYmP900olh6cOkCl-Lvs-1" source="jYmP900olh6cOkCl-Lvs-30" target="jYmP900olh6cOkCl-Lvs-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -390,15 +382,6 @@
         <mxCell id="PyXnrwbfxOhyF24sHTxU-14" value="uncontrolled threats" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="920" y="840" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#330066;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-15" target="PyXnrwbfxOhyF24sHTxU-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1220" y="1060" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1060" y="1040" />
-              <mxPoint x="1060" y="656" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-15" value="threat report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="760" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
@@ -435,50 +418,50 @@
             <mxPoint x="70" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-14" target="PyXnrwbfxOhyF24sHTxU-29" edge="1">
+        <mxCell id="PyXnrwbfxOhyF24sHTxU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-14" target="PyXnrwbfxOhyF24sHTxU-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1040" y="890" />
-              <mxPoint x="1040" y="626" />
+              <mxPoint x="1040" y="640" />
             </Array>
             <mxPoint x="1170" y="889" as="sourcePoint" />
             <mxPoint x="1220" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-27" value="consolidated&lt;br&gt;threat report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="1110" y="750" width="120" height="80" as="geometry" />
+          <mxGeometry x="1090" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-29" target="PyXnrwbfxOhyF24sHTxU-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-29" value="consolidation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="1110" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-30" value="consolidate risk domains" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="1150" y="840" width="150" height="30" as="geometry" />
+          <mxGeometry x="1130" y="840" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-34" target="PyXnrwbfxOhyF24sHTxU-29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="510" as="sourcePoint" />
+            <mxPoint x="1150" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-32" value="consolidated&lt;br&gt;uncontrolled threats" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="1270" y="590" width="80" height="100" as="geometry" />
+          <mxGeometry x="1250" y="590" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-29" target="PyXnrwbfxOhyF24sHTxU-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1219.9999999999995" y="660" as="sourcePoint" />
-            <mxPoint x="1280" y="650" as="targetPoint" />
+            <mxPoint x="1199.9999999999995" y="660" as="sourcePoint" />
+            <mxPoint x="1260" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-34" value="&lt;span style=&quot;background-color: rgb(255 , 230 , 204)&quot;&gt;Security SME&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="1155" y="450" width="30" height="60" as="geometry" />
+          <mxGeometry x="1135" y="450" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="jYmP900olh6cOkCl-Lvs-24" target="PyXnrwbfxOhyF24sHTxU-29" edge="1">
+        <mxCell id="PyXnrwbfxOhyF24sHTxU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="jYmP900olh6cOkCl-Lvs-24" target="PyXnrwbfxOhyF24sHTxU-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1040" y="370" />
-              <mxPoint x="1040" y="626" />
+              <mxPoint x="1040" y="640" />
             </Array>
             <mxPoint x="1050" y="420" as="sourcePoint" />
             <mxPoint x="1340" y="370" as="targetPoint" />
@@ -500,25 +483,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-44" value="uncontrolled threats" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="940" y="1330" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-46" value="threat report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="920" y="1520" width="120" height="80" as="geometry" />
+          <mxGeometry x="970" y="1420" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-47" value="to issue tracking system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="1400" y="1445" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-53" target="PyXnrwbfxOhyF24sHTxU-59" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="1890" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1060" y="1550" />
-              <mxPoint x="1060" y="1486" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-53" value="threat report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="910" y="1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-57" value="consolidated&lt;br&gt;threat report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="1110" y="1580" width="120" height="80" as="geometry" />
@@ -549,21 +517,18 @@
         <mxCell id="PyXnrwbfxOhyF24sHTxU-64" value="&lt;span style=&quot;background-color: rgb(255 , 230 , 204)&quot;&gt;Security SME&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
           <mxGeometry x="1155" y="1280" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-44" target="PyXnrwbfxOhyF24sHTxU-59" edge="1">
+        <mxCell id="PyXnrwbfxOhyF24sHTxU-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jYmP900olh6cOkCl-Lvs-1" source="PyXnrwbfxOhyF24sHTxU-44" target="PyXnrwbfxOhyF24sHTxU-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1060" y="1380" />
-              <mxPoint x="1060" y="1455" />
+              <mxPoint x="1090" y="1470" />
+              <mxPoint x="1090" y="1470" />
             </Array>
             <mxPoint x="1100" y="1250" as="sourcePoint" />
             <mxPoint x="1390" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PyXnrwbfxOhyF24sHTxU-67" value="uncontrolled threats" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="930" y="1320" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="PyXnrwbfxOhyF24sHTxU-68" value="threat report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="jYmP900olh6cOkCl-Lvs-1" vertex="1">
-          <mxGeometry x="900" y="1500" width="120" height="80" as="geometry" />
+          <mxGeometry x="960" y="1410" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
