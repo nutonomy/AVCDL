@@ -8,6 +8,9 @@
 **incremental AVCDL adoption** [[video]](https://youtu.be/gA5rflBB8EM) [[supporting material]](./incremental%20AVCDL%20adoption/)
 <br/> This training covers a recommended path to incremental adoption of the AVCDL.
 
+**threat prioritization** [[video]](https://youtu.be/Km5bK6ou-8I) [[supporting material]](./threat%20prioritization/)
+<br/> This training covers methodology for threat prioritization recommended in the AVCDL.
+
 ## Supply Chain
 
 **AVCDL supply chain overview** [[video]](https://www.youtube.com/watch?v=-6JbJS28210)
