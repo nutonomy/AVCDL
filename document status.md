@@ -2,7 +2,9 @@
 
 ## Overview
 
-The **AVCDL** documents are mostly complete. The majority of the secondary documents have been written and reviewed internally. Internally reviewed documents will be released soon after they have received certification body review.
+The core **AVCDL** documents are complete.
+
+As additional documents are created, they'll appear here.
 
 ## Document Status
 
@@ -33,12 +35,12 @@ The following table shows the status of the various AVCDL elements.
 | Understanding the Extended CIA Model                    | complete |
 | Understanding the AVPDL                                 | complete |
 | Creating a Development Lifecycle                        | complete |
-| Understanding Service Level Agreements in an AVCDL Context | draft |
+| Understanding Service Level Agreements in an AVCDL Context | complete |
 |                                                          |          |
 | **Certification**                                        |          |
 | AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment Summary | complete |
 | AVCDL Phase Requirement Product ISO 26262 Work Product Fulfillment Summary | complete |
-| AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment | draft |
+| AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment | complete |
 |                                                          |          |
 | **Supplier Processes**                                         |          |
 | AVCMDS                                                   | complete |
