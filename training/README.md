@@ -11,6 +11,9 @@
 **threat prioritization** [[video]](https://youtu.be/Km5bK6ou-8I) [[supporting material]](./threat%20prioritization/)
 <br/> This training covers methodology for threat prioritization recommended in the AVCDL.
 
+**requirements taxonomy** [[video]](https://youtu.be/5xYIe0z-brI) [[supporting material]](./requirements%20taxonomy/)
+<br/> This training covers basis and structure of the cybersecurity requirements taxonomy used within the AVCDL.
+
 ## Supply Chain
 
 **AVCDL supply chain overview** [[video]](https://www.youtube.com/watch?v=-6JbJS28210)
