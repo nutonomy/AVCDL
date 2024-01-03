@@ -2,6 +2,10 @@
 
 ## General
 
+The following diagram shows the general **AVCDL** training path. The highlighted items are have videos available.
+
+![general AVCDL training path](./images/AVCDL%20training%20path/processed/AVCDL%20training%20path%20-%20wide%20(video).png)
+
 **AVCDL overview** [[video]](https://youtu.be/AQiNcstp5bM) [[supporting material]](./AVCDL%20overview/)
 <br/> This training provides a general overview as to the construction and use of the Autonomous Vehicle Cybersecurity Development Lifecycle (AVCDL).
 
@@ -15,6 +19,10 @@
 <br/> This training covers basis and structure of the cybersecurity requirements taxonomy used within the AVCDL.
 
 ## Supply Chain
+
+The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.
+
+![general AVCDL training path](./images/AVCDL%20training%20path/processed/AVCDL%20training%20path%20-%20supply%20chain%20(video).png)
 
 **AVCDL supply chain overview** [[video]](https://www.youtube.com/watch?v=-6JbJS28210)
 [[supporting material]](./supply%20chain%20overview)
