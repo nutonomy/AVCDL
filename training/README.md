@@ -33,7 +33,7 @@ The following diagram shows the **AVCDL** supply chain training path. The highli
 <br/> This training covers how to complete the supplier cybersecurity manufacturer disclosure statement.
 
 **supplier maturity** [[video]](https://www.youtube.com/watch?v=duxh92Xb7Ig)
-[[supporting material]](./supplies%20maturity)
+[[supporting material]](./supplier%20maturity)
 <br/> This training covers how to complete the supplier cybersecurity process maturity assessment.
 
 **vendor process mapping** [[video]](https://www.youtube.com/watch?v=rQZ-VIZ8a1Y)
