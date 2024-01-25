@@ -22,6 +22,7 @@ This is an overview of how supply chain cybersecurity is addressed within the **
 
 |    |    |    |
 | ---- | ---- | ---- |
+| **Blog Post** | Turtles All the Way Down: Security at Every Level | [link](./background_material/blog_posts/turtles%20all%20the%20way%20down%20-%20security%20at%20every%20level.pdf) |
 | **Guidance** | Understanding Supply Chain Interaction in an AVCDL Context | [link](./distribution/reference_documents/elaboration_documents/Understanding%20Supply%20Chain%20Interaction%20in%20an%20AVCDL%20Context.pdf) |
 | **Video** | AVCDL Supply chain overview | [link](https://www.youtube.com/watch?v=-6JbJS28210) |
 
@@ -49,6 +50,7 @@ This material covers how to complete the supplier cybersecurity manufacturer dis
 
 |    |    |    |
 | ---- | ---- | ---- |
+| **Blog Post** | AVCMDS: Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement | [link](./background_material/blog_posts/AVCMDS%20-%20autonomous%20vehicle%20cybersecurity%20manufacturer%20disclosure%20statement.pdf) |
 | **Guidance** | Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement | [link](.//distribution/reference_documents/secondary_documents/Autonomous%20Vehicle%20Cybersecurity%20Manufacturer%20Disclosure%20Statement.pdf) |
 | **Template** | AVCMDS Worksheet template.xlsx | [link](./distribution/reference_documents/templates/AVCMDS%20Worksheet%20template.xlsx) |
 | **Video** | AVCMDS | [link](https://www.youtube.com/watch?v=lFIt-FCH3pE) |
@@ -59,6 +61,7 @@ This material covers how to complete the supplier cybersecurity process maturity
 
 |    |    |    |
 | ---- | ---- | ---- |
+| **Blog Post** | Where are You at? Level Setting Supplier Cybersecurity Maturity | [link](./background_material/blog_posts/where%20are%20you%20at%20-%20level%20setting%20supplier%20cybersecurity%20maturity.pdf) |
 | **Guidance** | Supplier Self-reported Cybersecurity Maturity Assessment | [link](./distribution/reference_documents/secondary_documents/Supplier%20Self-reported%20Cybersecurity%20Maturity%20Assessment.pdf) |
 | **Template** | AVCDL vendor CMM template.xlsx | [link](./distribution/reference_documents/templates/AVCDL%20vendor%20CMM%20template.xlsx) |
 | **Video** | supplier maturity | [link](https://www.youtube.com/watch?v=duxh92Xb7Ig) |
@@ -81,6 +84,7 @@ During the RFQ phase, the supplier and customer establish the responsibilities i
 
 |    |    |    |
 | ---- | ---- | ---- |
+| **Blog Post** | Yours, Mine, and Ours: The AVCDL and Cybersecurity Interface Agreements | [link](./background_material/blog_posts/yours,%20mine,%20and%20ours%20-%20the%20AVCDL%20and%20cybersecurity%20interface%20agreements.pdf)
 | **Guidance** | Understanding Cybersecurity Interface Agreements | [link](./distribution/reference_documents/elaboration_documents/Understanding%20Cybersecurity%20Interface%20Agreements.pdf) |
 | **Template** | AVCDL Cybersecurity Interface Agreement template.docx | [link](./distribution/reference_documents/templates/AVCDL%20Cybersecurity%20Interface%20Agreement%20template.docx) |
 
