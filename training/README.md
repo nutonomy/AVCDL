@@ -18,6 +18,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **requirements taxonomy** [[video]](https://youtu.be/5xYIe0z-brI) [[supporting material]](./requirements%20taxonomy/)
 <br/> This training covers basis and structure of the cybersecurity requirements taxonomy used within the AVCDL.
 
+**security requirements** [[video]](https://youtu.be/QASGnIHdrOQ) [[supporting material]](./security%20requirements/)
+<br/> This training covers how cybersecurity requirements are created and used within the AVCDL.
+
 ## Supply Chain
 
 The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.
@@ -39,3 +42,6 @@ The following diagram shows the **AVCDL** supply chain training path. The highli
 **vendor process mapping** [[video]](https://www.youtube.com/watch?v=rQZ-VIZ8a1Y)
 [[supporting material]](./vendor%20process%20mapping)
 <br/> This training covers how to map established supplier cybersecurity processes to their AVCDL counterparts.
+
+**security requirements** [[video]](https://youtu.be/QASGnIHdrOQ) [[supporting material]](./security%20requirements/)
+<br/> This training covers how cybersecurity requirements are created and used within the AVCDL.
