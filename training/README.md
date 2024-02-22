@@ -21,6 +21,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **security requirements** [[video]](https://youtu.be/QASGnIHdrOQ) [[supporting material]](./security%20requirements/)
 <br/> This training covers how cybersecurity requirements are created and used within the AVCDL.
 
+**attack surface analysis** [[video]](https://youtu.be/020juNobpr4) [[supporting material]](./attack%20surface%20analysis/)
+<br/> This training covers how attack surface analysis is preformed within the AVCDL.
+
 ## Supply Chain
 
 The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.
@@ -45,3 +48,6 @@ The following diagram shows the **AVCDL** supply chain training path. The highli
 
 **security requirements** [[video]](https://youtu.be/QASGnIHdrOQ) [[supporting material]](./security%20requirements/)
 <br/> This training covers how cybersecurity requirements are created and used within the AVCDL.
+
+**attack surface analysis** [[video]](https://youtu.be/020juNobpr4) [[supporting material]](./attack%20surface%20analysis/)
+<br/> This training covers how attack surface analysis is preformed within the AVCDL.
