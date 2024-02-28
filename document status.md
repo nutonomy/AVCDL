@@ -39,6 +39,7 @@ The following table shows the status of the various AVCDL elements.
 |                                                          |          |
 | **Certification**                                        |          |
 | AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment Summary | complete |
+| AVCDL Phase Requirement Product ISO 24089 Work Product Fulfillment Summary | complete |
 | AVCDL Phase Requirement Product ISO 26262 Work Product Fulfillment Summary | complete |
 | AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment | complete |
 |                                                          |          |
