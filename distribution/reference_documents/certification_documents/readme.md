@@ -9,6 +9,13 @@ The directory tree contains material created to support certification efforts ba
 * AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment **(note 1)**
 * [AVCDL Phase Requirement Product ISO 21434 Work Product Fulfillment Summary](./AVCDL%20Phase%20Requirement%20Product%20ISO%2021434%20Work%20Product%20Fulfillment%20Summary.pdf)
 
+## ISO 24089
+
+**ISO/SAE 21434** (Road Vehicles - Software Update Engineering) is the primary standard that the **AVCDL** supports.
+
+* AVCDL Phase Requirement Product ISO 24089 Work Product Fulfillment **(note 1)**
+* [AVCDL Phase Requirement Product ISO 24089 Work Product Fulfillment Summary](./AVCDL%20Phase%20Requirement%20Product%20ISO%2024089%20Work%20Product%20Fulfillment%20Summary.pdf)
+
 ## ISO 26262
 
 **ISO 26262** (Road Vehicles - Functional Safety) has cybersecurity requirements and guidance that the **AVCDL** supports.
@@ -16,9 +23,9 @@ The directory tree contains material created to support certification efforts ba
 * AVCDL Phase Requirement Product ISO 26262 Work Product Fulfillment **(note 1)**
 * [AVCDL Phase Requirement Product ISO 26262 Work Product Fulfillment Summary](./AVCDL%20Phase%20Requirement%20Product%20ISO%2026262%20Work%20Product%20Fulfillment%20Summary.pdf)
 
-## UNECE WP.29 R155 (CSMS)
+## UN R155 (CSMS)
 
-**UNECE WP.29 R155** (Uniform provisions concerning the approval of vehicles with regards to cyber security and cyber security management system) has cybersecurity requirements and guidance that the **AVCDL** supports.
+**UN R155** (Uniform provisions concerning the approval of vehicles with regards to cyber security and cyber security management system) has cybersecurity requirements and guidance that the **AVCDL** supports.
 
 * [AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment](./AVCDL%20Phase%20Requirement%20Product%20UNECE%20WP.29%20R155%20Work%20Product%20Fulfillment.pdf)
 
