@@ -13,3 +13,7 @@ The [presentations](./presentations) directory tree contains presentations relat
 ## Reference Material
 
 The [reference material](./reference_material.md) file contains information used in the creation of the **AVCDL**.
+
+## Construction
+
+The [lifecycle construction](./lifecycle%20construction.md) file contains information to aid in the construction of development lifecycles like the **AVCDL**.

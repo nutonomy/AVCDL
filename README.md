@@ -58,12 +58,6 @@ You can find results of these assessments [here](./assessments).
 
 We're tracking when the **AVCDL** gets attention. You can find a list of mentions [here](./mentions.md).
 
-## Element Relationships
-
-The following diagram illustrates the relationship between the various sources for and elements of the **AVCDL**.
-
-![lifecycle creation flow](./source/reference_documents/misc/images/processed/lifecycle%20creation%20flow.png)
-
 ## Release Timetable
 
 The **AVCDL** has a lot of moving parts. We'll be providing material as soon as it has been reviewed by the certification body we're working with. You can see a summary of the secondary document status [here](./document%20status.md).
