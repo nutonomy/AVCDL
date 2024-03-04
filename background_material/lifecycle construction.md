@@ -103,3 +103,9 @@ The following templates and working materials are provided to assist in the crea
 - AVCDL mappings [[docx]](../distribution/reference_documents/working_material/AVCDL%20mappings.xlsx)
 - AVCDL roles and responsibilities [[xlsx]](../distribution/reference_documents/working_material/AVCDL%20roles%20and%20responsibilities.xlsx)
 - lifecycle template [[docx]](../distribution/reference_documents/templates/lifecycle%20template/lifecycle%20template.docx)
+
+## Element Relationships
+
+The following diagram illustrates the relationship between the various sources for and elements of the **AVCDL**.
+
+![lifecycle creation flow](../source/reference_documents/misc/images/processed/lifecycle%20creation%20flow.png)
