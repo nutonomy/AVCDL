@@ -20,7 +20,11 @@ The **AVCDL** has specific material that addressing supply chain issues.
 
 The recommended starting point for suppliers is this [page](./supply%20chain.md). It summarizes the documents, templates and links specific to suppliers.
 
-## Note for Windows Users
+## Note for non-Git Users
+
+ If you'd like to download the repository, but aren't a Git user, you can download a ZIP archive. Instructions are provided [here](./zip_downloading.md).
+ 
+ ## Note for Windows Users
 
 If you attempt to clone this repository on a Windows machine, you may run up against the 260 character fully-qualified path name limit. You can enable long FQPNs by following the instructions provided [here](https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=cmd).
 
