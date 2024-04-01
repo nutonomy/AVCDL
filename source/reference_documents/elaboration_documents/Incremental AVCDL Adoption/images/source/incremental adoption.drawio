@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-01T13:17:23.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="0tf0tKJWrvE7lEn-oXlO" version="21.6.8" type="device" pages="2">
+<mxfile host="Electron" modified="2024-04-01T18:28:11.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tRTjbknvkJTVlx5ftUVR" version="24.1.0" type="device" pages="4">
   <diagram id="htTk4eG_E8sKRTyZ_3JZ" name="buckets">
-    <mxGraphModel dx="2738" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2503" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -139,15 +139,6 @@
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-48" value="Secure Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" parent="1" vertex="1">
           <mxGeometry x="360" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-49" value="AVCMDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-50" value="CIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-51" value="Supplier CMM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFCCE6;" parent="1" vertex="1">
           <mxGeometry x="-60" y="410" width="20" height="140" as="geometry" />
         </mxCell>
@@ -175,153 +166,6 @@
         <mxCell id="mw_Jj1TRxBOdgNDR-pG_-60" value="Toolchain Support" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;gradientColor=#99CCFF;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="230" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-64" value="Roles and Responsibilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1550" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-65" value="&lt;b&gt;barebones&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="930" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-66" value="Training" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1550" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-67" value="Toolchain Support" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1370" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-68" value="Overall&lt;br&gt;Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1230" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-69" value="Protect the Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1040" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-70" value="Ensure Release Integrity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1230" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-71" value="Incident Response Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1040" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-72" value="Decommissioning Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1370" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-73" value="Threat Prioritization Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1370" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-74" value="Deployment Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1230" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-75" value="Security&lt;br&gt;Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-76" value="Secure Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-77" value="Security Design Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-78" value="Attack Surface Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-79" value="Threat Modeling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-80" value="Requirements&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-81" value="Design&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-82" value="Implementation&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-83" value="Verification&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-84" value="Release&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-86" value="Configure Secure Build" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="960" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-87" value="Use Secure Settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="100" y="960" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-88" value="Code Securely" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-89" value="Deprecate Unsafe Functions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="230" y="960" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-90" value="Static Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="360" y="960" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-91" value="Dynamic Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-92" value="Fuzz Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-93" value="Source Code&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-94" value="Penetration Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-98" value="Archive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-99" value="Identify / Confirm Vulnerabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1140" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-100" value="Assess / Prioritize Remediation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1140" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-101" value="Root Cause Vulnerabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1140" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-102" value="Decommissioning Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1470" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-103" value="&lt;b&gt;tactical&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1010" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-104" value="&lt;b&gt;tracked&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1200" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-105" value="&lt;b&gt;managed&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1340" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-106" value="&lt;b&gt;mature&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1520" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-107" value="Reuse Secure Software" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-108" value="Secure Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1140" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-114" value="Security Design Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;labelBorderColor=none;dashed=1;gradientColor=#CCFFCC;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-115" value="Source Code&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;labelBorderColor=none;dashed=1;gradientColor=#CCFFCC;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-116" value="Threat Prioritization Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;gradientColor=#99CCFF;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1040" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mw_Jj1TRxBOdgNDR-pG_-117" value="Toolchain Support" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;gradientColor=#99CCFF;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1040" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sZaCMGmIhE8X4MkbpEd5-1" value="Use Approved Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sZaCMGmIhE8X4MkbpEd5-2" value="Attack Surface Analysis Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sZaCMGmIhE8X4MkbpEd5-3" value="Threat Model&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sZaCMGmIhE8X4MkbpEd5-4" value="Final&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1420" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="omMHDoHDRywpzFsrSh7K-1" value="safety highlight" style="" parent="0" visible="0" />
         <mxCell id="omMHDoHDRywpzFsrSh7K-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;gradientColor=#99CCFF;gradientDirection=radial;strokeColor=#FF0000;strokeWidth=3;" parent="omMHDoHDRywpzFsrSh7K-1" vertex="1">
           <mxGeometry x="-35" y="613.96" width="650" height="52.08" as="geometry" />
@@ -338,8 +182,187 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="buckets (top labels)" id="P66TlYTYjqTlbwTG8Vlw">
+    <mxGraphModel dx="2503" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-0" />
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-1" style="" parent="mQfXlQU5T3lxv9L24Qb0-0" />
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-59" value="Roles and Responsibilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-60" value="&lt;b&gt;barebones&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="930" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-61" value="Training" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-62" value="Toolchain Support" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-63" value="Overall&lt;br&gt;Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-64" value="Protect the Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-65" value="Ensure Release Integrity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-66" value="Incident Response Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-67" value="Decommissioning Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-68" value="Threat Prioritization Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-69" value="Deployment Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="1230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-70" value="Security&lt;br&gt;Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-71" value="Secure Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-72" value="Security Design Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-73" value="Attack Surface Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="360" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-74" value="Threat Modeling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="490" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-75" value="Requirements&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-76" value="Design&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-77" value="Implementation&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-78" value="Verification&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="360" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-79" value="Release&lt;br&gt;Gate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="490" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-80" value="Configure Secure Build" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-81" value="Use Secure Settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-82" value="Code Securely" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-83" value="Deprecate Unsafe Functions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-84" value="Static Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="360" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-85" value="Dynamic Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="360" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-86" value="Fuzz Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-87" value="Source Code&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="620" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-88" value="Penetration Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="490" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-89" value="Archive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="750" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-90" value="Identify / Confirm Vulnerabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-91" value="Assess / Prioritize Remediation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="100" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-92" value="Root Cause Vulnerabilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-93" value="Decommissioning Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-94" value="&lt;b&gt;tactical&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1010" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-95" value="&lt;b&gt;tracked&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-96" value="&lt;b&gt;managed&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-97" value="&lt;b&gt;mature&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-98" value="Reuse Secure Software" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="-30" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-99" value="Secure Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDFFE0;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="360" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-100" value="Security Design Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;labelBorderColor=none;dashed=1;gradientColor=#CCFFCC;gradientDirection=radial;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="620" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-101" value="Source Code&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;labelBorderColor=none;dashed=1;gradientColor=#CCFFCC;gradientDirection=radial;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="750" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-102" value="Threat Prioritization Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;gradientColor=#99CCFF;gradientDirection=radial;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="360" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-103" value="Toolchain Support" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;gradientColor=#99CCFF;gradientDirection=radial;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="230" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-104" value="Use Approved Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="620" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-105" value="Attack Surface Analysis Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="880" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-106" value="Threat Model&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="750" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-107" value="Final&lt;br&gt;Review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-1">
+          <mxGeometry x="1010" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-108" value="safety highlight" style="" visible="0" parent="mQfXlQU5T3lxv9L24Qb0-0" />
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-111" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;gradientColor=#99CCFF;gradientDirection=radial;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-108">
+          <mxGeometry x="-35" y="1273.96" width="650" height="52.08" as="geometry" />
+        </mxCell>
+        <mxCell id="mQfXlQU5T3lxv9L24Qb0-112" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=none;gradientColor=#99CCFF;gradientDirection=radial;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="mQfXlQU5T3lxv9L24Qb0-108">
+          <mxGeometry x="-35" y="1133.96" width="390" height="52.08" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="buckets - supplier activities" id="-1h7ABPGcgmU4-FJ7Bu3">
+    <mxGraphModel dx="2103" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="39ny0xeTatWQXLALWdhJ-0" />
+        <mxCell id="39ny0xeTatWQXLALWdhJ-1" style="" parent="39ny0xeTatWQXLALWdhJ-0" />
+        <mxCell id="39ny0xeTatWQXLALWdhJ-47" value="AVCMDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="39ny0xeTatWQXLALWdhJ-1">
+          <mxGeometry x="70" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39ny0xeTatWQXLALWdhJ-48" value="CIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="39ny0xeTatWQXLALWdhJ-1">
+          <mxGeometry x="330" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39ny0xeTatWQXLALWdhJ-49" value="Supplier CMM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="39ny0xeTatWQXLALWdhJ-1">
+          <mxGeometry x="200" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="spectrum" id="aH3N7Sp5j6T8lEaMiXVL">
-    <mxGraphModel dx="2738" dy="1419" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2503" dy="1128" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="98uQ99whcBbVKg6mqtDZ-0" />
         <mxCell id="spN0C8nqVuxaEwO2YDk5-0" value="mature" style="locked=1;" parent="98uQ99whcBbVKg6mqtDZ-0" />
