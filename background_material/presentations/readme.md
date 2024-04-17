@@ -2,13 +2,17 @@
 
 The directory tree contains material use to create presentations given on the **AVCDL**.
 
+## Cybersecurity Requirements Taxonomy-based Threat Modeling
+
+This presentation covered cybersecurity requirements taxonomy-based threat modeling, presented at the 2024 SAE world congress in Detroit MI on 17 April 2024. [[material](./Cybersecurity%20Requirements%20Taxonomy-based%20Threat%20Modeling)] [[video](https://youtu.be/s9LTra_zptE)]
+
 ## There and Back Again - Building a Cybersecurity Development Lifecycle from Scratch to Comply with ISO/SAE 21434 and UN R155
 
 This presentation covered creation and assessment of the AVCDL, presented at the 2024 SAE world congress in Detroit MI on 16 April 2024. [[material](./There%20and%20Back%20Again)] [[video](https://youtu.be/vOxF_E7U-bs)]
 
 ## Supply Chain Cybersecurity
 
-This presentation covered supply chain cybersecurity within the **AVCDL**. It was delivered in-person at Automotive IQ 2024 - Ann Arbor on 21 Mar 2024. [[material](./supply%20chain%20cybersecurity)] [[video](https://youtu.be/Hs1P17TSCg8)]
+This presentation covered supply chain cybersecurity within the **AVCDL**. It was delivered in-person at Automotive IQ 2024 in Ann Arbor on 21 Mar 2024. [[material](./supply%20chain%20cybersecurity)] [[video](https://youtu.be/Hs1P17TSCg8)]
 
 ## AVCDL overview
 
